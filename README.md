@@ -1,4 +1,4 @@
-[Python 공식 사이트](https://www.python.org/)
+https://doggzone.github.io/cse1017/
 
 ### 주요 사이트
 
