@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1.강의
+title: 강의
 ---
 
 ## 1.1 문자열

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2.숙제
+title: 숙제
 ---
 
 -
