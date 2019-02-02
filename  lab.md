@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 실습
+title: 2.실습
 ---
 
 
