@@ -2,9 +2,16 @@ https://doggzone.github.io/cse1017/
 
 ### 주요 사이트
 
-- [Python](https://www.python.org/)
-- [강의자료](https://github.com/Doggzone/cse1017)
+- [The Python Software Foundation](https://www.python.org/)
+- [Trello]()
 - [YouTube채널]()
+- [CodeOnWeb]()
+
+### 필독서
+
+- 이노베이터
+- 컴퓨터과학이 여는 세상
+
 
 
 ### 연락처
