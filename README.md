@@ -9,5 +9,5 @@ https://doggzone.github.io/cse1017/
 
 ### 연락처
 
--	교수: 도경구, 제4공학관 320호 (031-400-5667) [(home)](http://softopians.github.io/doggzone)
+-	교수: [도경구](http://softopians.github.io/doggzone), 제4공학관 320호 (031-400-5667)
 -	조교: 제4공학관 319호 (031-400-3781)
