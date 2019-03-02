@@ -1,7 +1,7 @@
 ### 학습 링크
 
 - [The Python Software Foundation](https://www.python.org/)
-- [CodeOnWeb]() 
+- [CodeOnWeb](https://erica.codeonweb.com) 
 - [강의비디오]()
 
 ### 필독서
