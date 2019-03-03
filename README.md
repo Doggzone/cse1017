@@ -1,5 +1,10 @@
-| [CodeOnWeb](https://erica.codeonweb.com) | [The Python Software Foundation](https://www.python.org/) | [강의비디오]() |
-|:---:|:---:|:---:|
+한양대학교 ERICA 소프트웨어융합대학
+2019년 1학기
+
+### 수업 자료
+- [CodeOnWeb](https://erica.codeonweb.com)
+- [The Python Software Foundation](https://www.python.org/) 
+- [강의비디오]() 
 
 ### 필독서
 
