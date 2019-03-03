@@ -1,4 +1,5 @@
-[CodeOnWeb](https://erica.codeonweb.com) | [The Python Software Foundation](https://www.python.org/) | [강의비디오]()
+| [CodeOnWeb](https://erica.codeonweb.com) | [The Python Software Foundation](https://www.python.org/) | [강의비디오]() |
+|:---:|:---:|:---:|
 
 ### 필독서
 
