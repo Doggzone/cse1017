@@ -6,8 +6,7 @@
 - [강의비디오]() 
 
 ### 필독서
-
-- 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. (학술정보관 1권, 소프트웨어융합대학 행정실 5권 보유) [[관련강의: 소프트웨어 혁명]](https://www.youtube.com/playlist?list=PL0UNsS2daHTziQ6QcREkcMg773C4dhWAK)
+- 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. (학술정보관 1권, 소프트웨어융합대학 행정실 5권 보유) [[관련 비디오 강의: 소프트웨어 혁명]](https://www.youtube.com/playlist?list=PL0UNsS2daHTziQ6QcREkcMg773C4dhWAK)
 - 이광근, [컴퓨터과학이 여는 세상](https://cse.snu.ac.kr/node/20089), 2015. (학술정보관 9권, 소프트웨어융합대학 행정실 5권 보유)
 
 ### 평가
@@ -21,6 +20,10 @@
 | 코딩시험1 | 35% | 독서퀴즈 2% 포함 |
 | 코딩시험2 | 35% | 독서퀴즈 2% 포함 |
 | 합계 | 100% | 상대평가 A < 30%, B < 70% |
+
+### 수업 윤리
+- 다른 학생의 해답을 그대로 베껴서 제출하면 부정행위로 간주되어 해당 학생 모두 0점 처리됩니다. 모여서 토론하며 공부하는 건 장려하지만 코드는 본인이 직접 작성해야 합니다.
+- 시험에서 부정행위가 발견되면 즉시 F학점 처리됩니다.
 
 ### 연락처
 
