@@ -10,8 +10,11 @@
   4. [소프트웨어 중심 사회](https://youtu.be/aWugE9b5PrM)
 
 ### 필독서
-- 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. ([학술정보관 1권](https://information.hanyang.ac.kr/#/search/detail/1666327), 소프트웨어융합대학 행정실 5권 보유) (원서: [학술정보관 2권](https://information.hanyang.ac.kr/#/search/detail/1652064)) 
-- 이광근, [컴퓨터과학이 여는 세상](https://cse.snu.ac.kr/node/20089), 2015. ([학술정보관 9권](https://information.hanyang.ac.kr/#/search/detail/1636384), 소프트웨어융합대학 행정실 5권, SMaSH 1권 보유)
+- 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. 
+  + 번역서: [학술정보관 1권](https://information.hanyang.ac.kr/#/search/detail/1666327), 소프트웨어융합대학 행정실 5권 보유
+  + 원서: [학술정보관 2권](https://information.hanyang.ac.kr/#/search/detail/1652064)) 
+- 이광근, [컴퓨터과학이 여는 세상](https://cse.snu.ac.kr/node/20089), 2015. 
+  + [학술정보관 9권](https://information.hanyang.ac.kr/#/search/detail/1636384), 소프트웨어융합대학 행정실 5권, SMaSH 1권 보유
 
 ### 평가
 
