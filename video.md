@@ -6,7 +6,7 @@ title: Video
 1. 코딩 첫걸음
    - [문자열](https://youtu.be/P4tFJ5kBXzk)
    - [산술](https://youtu.be/LzaIgQGWORM)
-   - [변수와 지정]() (Coming this afternoon)
+   - [변수와 지정](https://youtu.be/9EktgV1-DDE)
 
 ### [소프트웨어 혁명 : 역사와 전망](https://www.youtube.com/playlist?list=PL0UNsS2daHTziQ6QcREkcMg773C4dhWAK) (2015)
 1. [서막](https://youtu.be/PrEs7Fbwflk)
