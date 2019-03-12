@@ -5,7 +5,7 @@ title: Video
 ### 강의
 1. 코딩 첫걸음
    - [문자열](https://youtu.be/P4tFJ5kBXzk)
-   - [산술]() (Coming soon in any minites)
+   - [산술]() (Coming soon in any minite)
    - [변수와 지정]() (Coming this afternoon)
 
 ### [소프트웨어 혁명 : 역사와 전망](https://www.youtube.com/playlist?list=PL0UNsS2daHTziQ6QcREkcMg773C4dhWAK) (2015)
