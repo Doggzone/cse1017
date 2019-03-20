@@ -3,11 +3,11 @@ layout: page
 title: Video
 ---
 ### 강의
-1. 코딩 첫걸음
+1. 코딩 첫걸음 =
    1-1. [문자열](https://youtu.be/P4tFJ5kBXzk),
    1-2. [산술](https://youtu.be/LzaIgQGWORM),
    1-3. [변수와 지정](https://youtu.be/9EktgV1-DDE)
-2. 함수 만들기 + 제어 구조
+2. 함수 만들기 + 제어 구조 =
    2-1. [함수](https://youtu.be/rv7gbbhpYM4),
    2-2. [논리식](https://youtu.be/zm7wskxuAM8),
    2-3. [조건문](https://youtu.be/EjcpMel1Kgc),
