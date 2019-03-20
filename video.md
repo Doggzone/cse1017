@@ -3,16 +3,16 @@ layout: page
 title: Video
 ---
 ### 강의
-1. 코딩 첫걸음 =
-   1. [문자열](https://youtu.be/P4tFJ5kBXzk),
-   2. [산술](https://youtu.be/LzaIgQGWORM),
-   3. [변수와 지정](https://youtu.be/9EktgV1-DDE)
-2. 함수 만들기 + 제어 구조 =
-   1. [함수](https://youtu.be/rv7gbbhpYM4),
-   2. [논리식](https://youtu.be/zm7wskxuAM8),
-   3. [조건문](https://youtu.be/EjcpMel1Kgc),
-   4. [반복문](https://youtu.be/ftBqY8TLq9E),
-   5. [문자열 해부](https://youtu.be/EawJvpMsw10)
+1. 코딩 첫걸음
+   1-1. [문자열](https://youtu.be/P4tFJ5kBXzk),
+   1-2. [산술](https://youtu.be/LzaIgQGWORM),
+   1-3. [변수와 지정](https://youtu.be/9EktgV1-DDE)
+2. 함수 만들기 + 제어 구조
+   2-1. [함수](https://youtu.be/rv7gbbhpYM4),
+   2-2. [논리식](https://youtu.be/zm7wskxuAM8),
+   2-3. [조건문](https://youtu.be/EjcpMel1Kgc),
+   2-4. [반복문](https://youtu.be/ftBqY8TLq9E),
+   2-5. [문자열 해부](https://youtu.be/EawJvpMsw10)
 
 ### [소프트웨어 혁명 : 역사와 전망](https://www.youtube.com/playlist?list=PL0UNsS2daHTziQ6QcREkcMg773C4dhWAK) (2015)
 1. [서막](https://youtu.be/PrEs7Fbwflk)
