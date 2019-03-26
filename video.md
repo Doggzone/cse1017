@@ -17,7 +17,7 @@ title: Video
    3-1. [자연수](https://youtu.be/3d6cv2tn3rs),
    3-2. [사례 : 초 읽기 출력](https://youtu.be/VG9tBFPVapM),
    3-3. [사례 : n까지 자연수 합](https://youtu.be/peVm_bcKGf0),
-   3-4. [사례 : ]()
+   3-4. [사례 : 거듭제곱]() 오늘 밤에 올라감 .... 
 
 ### [소프트웨어 혁명 : 역사와 전망](https://www.youtube.com/playlist?list=PL0UNsS2daHTziQ6QcREkcMg773C4dhWAK) (2015)
 1. [서막](https://youtu.be/PrEs7Fbwflk)
