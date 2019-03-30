@@ -7,7 +7,7 @@
 - [sli.do](https://www.sli.do/)
 - [HY-in](https://portal.hanyang.ac.kr/)
 
-### 강의
+### 강의 비디오
 1. **코딩 첫걸음** =
    1-1. [문자열](https://youtu.be/P4tFJ5kBXzk),
    1-2. [산술](https://youtu.be/LzaIgQGWORM),
