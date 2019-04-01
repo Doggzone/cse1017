@@ -28,7 +28,7 @@
    3-4. [사례 : 거듭제곱](https://youtu.be/APqXn1JWZew)
 4. **재귀와 반복 : 정렬** = 
    3-0. [정렬](https://youtu.be/bNOccblKxEg),
-   3-1. 시퀀스와 for 루프
+   3-1. [시퀀스](https://youtu.be/ScyOG6IqU6M), for 루프
    3-2. 선택정렬
    3-3. 삽입정렬
    3-4. 합병정렬
