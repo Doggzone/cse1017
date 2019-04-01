@@ -27,12 +27,14 @@
    3-3. [사례 : n까지 자연수 합](https://youtu.be/peVm_bcKGf0),
    3-4. [사례 : 거듭제곱](https://youtu.be/APqXn1JWZew)
 4. **재귀와 반복 : 정렬** = 
-   3-0. [정렬](https://youtu.be/bNOccblKxEg),
-   3-1. [시퀀스](https://youtu.be/ScyOG6IqU6M), for 루프
-   3-2. 선택정렬
-   3-3. 삽입정렬
-   3-4. 합병정렬
-   3-5. 쿽정렬
+   4-0. [정렬](https://youtu.be/bNOccblKxEg),
+   4-1. [시퀀스](https://youtu.be/rCH6kUhNA3w), 
+   4-2. for 루프,
+   4-3. 리스트의 귀납 정의,
+   4-4. 선택정렬,
+   4-5. 삽입정렬,
+   4-6. 합병정렬,
+   4-7. 쿽정렬
    
 ### 필독서
 - 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. 
