@@ -21,12 +21,19 @@
    2-4. [반복문](https://youtu.be/ftBqY8TLq9E),
    2-5. [문자열 해부](https://youtu.be/EawJvpMsw10),
    실습+숙제: [문제풀이](https://youtu.be/AXENXvSOq2I)
-3. **재귀와 반복** =
+3. **재귀와 반복 : 자연수 계산** =
    3-1. [자연수](https://youtu.be/3d6cv2tn3rs),
    3-2. [사례 : 초 읽기 출력](https://youtu.be/VG9tBFPVapM),
    3-3. [사례 : n까지 자연수 합](https://youtu.be/peVm_bcKGf0),
    3-4. [사례 : 거듭제곱](https://youtu.be/APqXn1JWZew)
-
+4. **재귀와 반복 : 정렬** = 
+   3-0. [정렬](https://youtu.be/bNOccblKxEg),
+   3-1. 시퀀스와 for 루프
+   3-2. 선택정렬
+   3-3. 삽입정렬
+   3-4. 합병정렬
+   3-5. 쿽정렬
+   
 ### 필독서
 - 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. 
   + 번역서: [학술정보관 1권](https://information.hanyang.ac.kr/#/search/detail/1666327), 소프트웨어융합대학 행정실 5권 보유
