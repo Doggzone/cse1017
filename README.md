@@ -31,7 +31,7 @@
    4-1. [시퀀스](https://youtu.be/rCH6kUhNA3w), 
    4-2. [for 루프](https://youtu.be/Jn4NtyMMras),
    4-3. [리스트의 귀납 정의](https://youtu.be/55ftBqkakLA),
-   4-4. 선택정렬,
+   4-4. [선택정렬](https://youtu.be/-HZiGIrbVw4),
    4-5. 삽입정렬,
    4-6. 합병정렬,
    4-7. 쿽정렬
