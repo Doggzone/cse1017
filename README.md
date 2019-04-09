@@ -40,7 +40,7 @@
    5-0. [검색](https://youtu.be/DMte4BG1I5Y),
    5-1. [리스트 검색 : OX 문제](https://youtu.be/dk2-_UlHXiE), 
    5-2. [리스트 검색 : 주관식 문제](https://youtu.be/QjFWy6wI4yw),
-   5-3. 파일 처리,
+   5-3. [파일 처리](https://youtu.be/T1iLNxfeHjE),
    5-4. 사례 : 텍스트 파일에서 문자열 검색
    
 ### 필독서
