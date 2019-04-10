@@ -41,7 +41,7 @@
    5-1. [리스트 검색 : OX 문제](https://youtu.be/dk2-_UlHXiE), 
    5-2. [리스트 검색 : 주관식 문제](https://youtu.be/QjFWy6wI4yw),
    5-3. [파일 처리](https://youtu.be/T1iLNxfeHjE),
-   5-4. 사례 : 텍스트 파일에서 문자열 검색
+   5-4. [텍스트 파일에서 문자열 검색](https://youtu.be/_iAK3rDobXI)
    
 ### 필독서
 - 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. 
