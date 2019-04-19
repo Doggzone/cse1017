@@ -6,7 +6,12 @@
 - 17:45까지 입실 완료, 18:00 부터 인터넷 사용 불가
 - 가득 충전된 노트북 필히 지참
 - 시험 중 : 인터넷 연결 오프, 학우와 대화 금지, 핸드폰 전원 오프 - 이를 지키지 않는 경우 부정행위로 간주 (퇴장 및 과목 낙제)
-- 파일 제출 : 시험 종료 후 Google Class를 통해 제출 
+- 파일 제출 : 시험 종료 후 Google Classroom을 통해 제출
+- Google Classroom 등록 키 (시험 전에 반드시 등록하기 바랍니다.)
+  - CS10 : 3hitnzu
+  - CS13 : jmp56d
+  - ICT10 : cbomcn2
+  - ICT13 : dng2uqa
 
 ### 수업 자료
 - [CodeOnWeb](https://erica.codeonweb.com)
