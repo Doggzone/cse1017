@@ -1,6 +1,6 @@
 한양대학교 ERICA 소프트웨어융합대학
 
-https://github.com/Doggzone/doggzone.github.io/blob/master/2019exam1cs.py
+https://trello.com/b/METDzS5x/cse1017-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EC%B4%88-2019
 
 ### 중간 시험 기간 중 Q&A 세션 방식 및 일정
 - 4월 21일 (일) 저녁 7시~ YouTube Streaming 도경구 (개인사정으로 취소)
