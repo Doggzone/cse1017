@@ -2,11 +2,11 @@
 
 ### 수업 자료
 - [CodeOnWeb](https://erica.codeonweb.com)
-- [Repl.it](https://repl.it/)
 - [The Python Software Foundation](https://www.python.org/)
 - [sli.do](https://www.sli.do/)
 - [HY-in](https://portal.hanyang.ac.kr/)
-
+- IDE: [PyCharm](https://www.jetbrains.com/pycharm/), [Repl.it](https://repl.it/)
+- Editors: [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/)
 
 ### 강의 비디오
 1. **코딩 첫걸음** =
