@@ -43,10 +43,10 @@
    5-3. [파일 처리](https://youtu.be/T1iLNxfeHjE),
    5-4. [텍스트 파일에서 문자열 검색](https://youtu.be/_iAK3rDobXI)
 6. **재귀와 반복 : 트리 재귀** = 
-   5-0. [트리 재귀](https://youtu.be/Ed67xpfaVsE),
-   5-1. [피보나치 수열](https://youtu.be/Ta2R23Xhv6I), 
-   5-2. [파스칼 삼각형](https://youtu.be/ekDFdMYhM54),
-   5-3. [하노이의 타워](https://youtu.be/5qH4oi6FaRo),
+   6-0. [트리 재귀](https://youtu.be/Ed67xpfaVsE),
+   6-1. [피보나치 수열](https://youtu.be/Ta2R23Xhv6I), 
+   6-2. [파스칼 삼각형](https://youtu.be/ekDFdMYhM54),
+   6-3. [하노이의 타워](https://youtu.be/5qH4oi6FaRo),
    [숙제](https://youtu.be/JNHF2mAiT9M)
 7. **문제 해결 I : Puzzle Game Sudoku** = 
    7-0. [Puzzle Game Sudoku](https://youtu.be/wkzQTgvXlh0),
