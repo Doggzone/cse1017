@@ -1,7 +1,7 @@
 한양대학교 ERICA 소프트웨어융합대학
 
 ### 팀프로젝트 로스터 등록
-- [등록](https://docs.google.com/forms/d/1iVumDCS4LCLDGj26nr-KzS9omx0DeKgp8jLOaPD9ryY/prefill)
+- [등록](https://docs.google.com/forms/d/e/1FAIpQLSdsV-GH1RWPnX9fRibAhBlcKkj9Jvie6pomvSLjAuan_koamw/viewform?usp=sf_link)
 
 ### 수업 자료
 - [CodeOnWeb](https://erica.codeonweb.com)
