@@ -63,7 +63,7 @@
    8-0. [Card Game Blackjack](https://youtu.be/7h6amg18RIg),
    8-1. [사전](https://youtu.be/I_NU2TBlk5c), 
    8-2. [실습: 카드게임 API](https://youtu.be/NwCyvC1aFdA),
-   8-3. 실습 풀이 코딩,
+   8-3. [실습 풀이 코딩](https://youtu.be/alA9Mcsem7k),
    8-4. [숙제: Card Game Blackjack](https://youtu.be/ywXwSI4z6Cs),
    8-5. 숙제 풀이 코딩
 
