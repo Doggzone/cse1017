@@ -12,6 +12,7 @@
 - Editors: [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/)
 
 ### 강의 비디오
+[재생목록](https://www.youtube.com/playlist?list=PL0UNsS2daHTzzRXRIWULnZv6Osu5FG-m-)
 1. **코딩 첫걸음** =
    1-1. [문자열](https://youtu.be/P4tFJ5kBXzk),
    1-2. [산술](https://youtu.be/LzaIgQGWORM),
@@ -66,6 +67,12 @@
    8-3. [실습 풀이 코딩](https://youtu.be/alA9Mcsem7k),
    8-4. [숙제: Card Game Blackjack](https://youtu.be/ywXwSI4z6Cs),
    8-5. 숙제 풀이 코딩
+9. **문제 해결 III : Card Game Blackjack 확장** = 
+   9-0. [Card Game Blackjack 확장](https://youtu.be/9pr96JrRkEA),
+   9-1. [요구사항](https://youtu.be/6pcfHUUmHds), 
+   9-2. [파일처리: 데이터베이스 API](https://youtu.be/T-3XXUMhhI4),
+   9-3. [실습+숙제 코딩 가이드](https://youtu.be/oR79ug5Ty9Q),
+   9-4. 실습+숙제 풀이 코딩
 
 ### 필독서
 - 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. 
