@@ -59,14 +59,14 @@
    7-3. [Mini Sudoku 요구사항](https://youtu.be/N0RhD8NOrls),
    7-4. [Mini Sudoku 알고리즘](https://youtu.be/b1O7Lsn30C4),
    7-5. [Mini Sudoku 구현 실습](https://youtu.be/Dngm_Ckuo0w),
-   7-6. 실습 풀이 코딩
+   7-6. [실습 풀이 코딩](https://youtu.be/aa0LRVYL1uc)
 8. **문제 해결 II : Card Game Blackjack** = 
    8-0. [Card Game Blackjack](https://youtu.be/7h6amg18RIg),
    8-1. [사전](https://youtu.be/I_NU2TBlk5c), 
    8-2. [실습: 카드게임 API](https://youtu.be/NwCyvC1aFdA),
    8-3. [실습 풀이 코딩](https://youtu.be/alA9Mcsem7k),
    8-4. [숙제: Card Game Blackjack](https://youtu.be/ywXwSI4z6Cs),
-   8-5. 숙제 풀이 코딩
+   8-5. [숙제 풀이 코딩](https://youtu.be/F_s9m6LXV9Y)
 9. **문제 해결 III : Card Game Blackjack 확장** = 
    9-0. [Card Game Blackjack 확장](https://youtu.be/9pr96JrRkEA),
    9-1. [요구사항](https://youtu.be/6pcfHUUmHds), 
