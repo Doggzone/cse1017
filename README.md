@@ -73,7 +73,19 @@
    9-2. [파일처리: 데이터베이스 API](https://youtu.be/T-3XXUMhhI4),
    9-3. [실습+숙제 코딩 가이드](https://youtu.be/oR79ug5Ty9Q),
    9-4. 실습+숙제 풀이 코딩
-
+10. **안전 코딩 및 예외 처리** = 
+   10-0. [안전 코딩 및 예외 처리](https://youtu.be/wEx7en9xXI4),
+   10-1. [붙박이 예외](https://youtu.be/rWY_lg1jK5I), 
+   10-2. [예외 처리](https://youtu.be/0FLiAgw4GEk),
+   10-2-1. [예외 처리 : 사례 학습](https://youtu.be/VAXTHhfpK5A),
+   10-2-2. [예외 처리 : 문법과 의미](https://youtu.be/vSSuBTgzec8),
+   10-2-3. [예외 처리 : 실습 #1](https://youtu.be/0DWN10jgB2g),
+   10-3. [Assert 문](https://youtu.be/a_ojbKzabn8),
+   10-3-1. [Assert 문 : 실습 #2](https://youtu.be/c9tvvB8zvI0),
+   10-4. [수제 예외](https://youtu.be/FKjXgsBaO50),
+   10-4-1. [수제 예외 : 실습 #3](https://youtu.be/c9tvvB8zvI0),
+   10-4-2. [수제 예외 : 실습 #4](https://youtu.be/vQBcc_xzJ8M)
+   
 ### 필독서
 - 월터 아이작슨, [이노베이터: 창의적인 삶으로 나아간 천재들의 비밀](https://books.google.co.kr/books?id=B5qFCwAAQBAJ&lpg=PT324&ots=lRwLGaoTup&dq=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0%3A%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&hl=ko&pg=PT313#v=onepage&q=%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%ED%84%B0:%20%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%20%EC%82%B6%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%84%20%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EB%B9%84%EB%B0%80&f=false), 2014. 
   + 번역서: [학술정보관 1권](https://information.hanyang.ac.kr/#/search/detail/1666327), 소프트웨어융합대학 행정실 5권 보유
