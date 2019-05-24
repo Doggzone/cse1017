@@ -83,7 +83,7 @@
    9-1. [요구사항](https://youtu.be/6pcfHUUmHds), 
    9-2. [파일처리: 데이터베이스 API](https://youtu.be/T-3XXUMhhI4),
    9-3. [실습+숙제 코딩 가이드](https://youtu.be/oR79ug5Ty9Q),
-   9-4. 실습+숙제 풀이 코딩
+   9-4. [실습+숙제 풀이 코딩](https://youtu.be/K0K0al0FAcg)
 10. **안전 코딩 및 예외 처리** = 
    10-0. [안전 코딩 및 예외 처리](https://youtu.be/wEx7en9xXI4),
    10-1. [붙박이 예외](https://youtu.be/rWY_lg1jK5I), 
