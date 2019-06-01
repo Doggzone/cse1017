@@ -107,7 +107,7 @@
   + 번역서: [학술정보관 1권](https://information.hanyang.ac.kr/#/search/detail/1666327), 소프트웨어융합대학 행정실 5권 보유
   + 원서: [학술정보관 2권](https://information.hanyang.ac.kr/#/search/detail/1652064) 보유 
   + 강의: [소프트웨어 혁명 : 역사와 전망 (2015)](https://www.youtube.com/playlist?list=PL0UNsS2daHTziQ6QcREkcMg773C4dhWAK)
-- 이광근, [컴퓨터과학이 여는 세상](https://cse.snu.ac.kr/node/20089), 2015. 
+- 이광근, [컴퓨터과학이 여는 세계](https://cse.snu.ac.kr/node/20089), 2015. 
   + [학술정보관 9권](https://information.hanyang.ac.kr/#/search/detail/1636384), 소프트웨어융합대학 행정실 5권, SMaSH 1권 보유
 
 ### 평가
