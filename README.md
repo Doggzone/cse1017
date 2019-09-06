@@ -142,6 +142,6 @@
 
 ### 연락처
 
--	교수: [도경구](http://softopians.github.io/doggzone), doh@hanyang.ac.kr, 제4공학관 3층 320호
+-	교수: [도경구](http://doggzone.github.io/home), doh@hanyang.ac.kr, 제4공학관 3층 320호
 -	조교: 이학진, gsdjini91@gmail.com, 학연산클러스터지원센터 6층 소프트웨어공학연구실
 - 학부조교 : 박성우, la_vega_@naver.com, 모지환, jhmo@plasse.hanyang.ac.kr, 제4공학관 3층 319호 프로그래밍언어연구실
