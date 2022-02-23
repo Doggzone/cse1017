@@ -11,7 +11,7 @@
 - 도경구, 프로그래밍의 정석 : 파이썬, 생능출판사, 2020.
   - [강의 영상](https://youtube.com/playlist?list=PL0UNsS2daHTyoDTctKpITfbW1UtR5ig6L)
   - [보조 자료 및 정오표](https://drive.google.com/drive/folders/1RMa0oL91nP98BOVWfx0tYWFbhhU5VjKy?usp=sharing)
-  - 서점 : 교내 서점, [교보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630)
+  - 구입 : 교내 서점, [교보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630)
 
 ### 프로그래밍언어
 - [Python](https://www.python.org/)
@@ -20,6 +20,7 @@
 
 - 1반 (수업코드 23450) - 수 9 ~ 11 (제4공학관 106), 목 2:30 ~ 4:30 (제1공학관 205)
 - 2반 (수업코드 23451) - 수 11 ~ 1 (제4공학관 106), 화 3 ~ 5 (컨퍼런스홀 104)
+- 개인 컴퓨터 지참 필수
 
 ### 주별 강의 계획
 
