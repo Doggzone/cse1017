@@ -26,11 +26,11 @@
 
 | 주 | 1반 | 2반 | 주제 | [강의비디오](https://youtube.com/playlist?list=PL0UNsS2daHTyoDTctKpITfbW1UtR5ig6L) | 숙제 |
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|  1  | 3/2 | 3/2 | 소개, 프로그래밍 환경, 실습준비 | 머리말, 인터프리터 준비 | - |
-|  1  | 3/3 | 3/8 | 문자열 | [1-0](https://youtu.be/ELYgp3tbbWA), 1-1 | - |
-|  2  | 3/10 | 3/15 | 수식 | 1-2, 1-3, 1-4 | #1 |
-|  2  | 3/16 | 3/16 | 변수 | 2-1, 2-1+ | - |
-|  3  | 3/17 | 3/22 | 함수 | 2-2 | #2 |
+|  1  | 3/2 | 3/2 | 소개, 프로그래밍 환경, 실습준비 | [머리말](https://youtu.be/8ymoTOh-S64), [인터프리터 준비](https://youtu.be/kzd5YqgZ7ZI) | - |
+|  1  | 3/3 | 3/8 | 문자열 | [1-0](https://youtu.be/ELYgp3tbbWA), [1-1](https://youtu.be/FqqoJxUfJXU) | - |
+|  2  | 3/10 | 3/15 | 수식 | [1-2](https://youtu.be/dB3k-8c9xyw), [1-3](https://youtu.be/G2YRBvgiLQM), [1-4](https://youtu.be/pBUJIPDO9Jc) | #1 |
+|  2  | 3/16 | 3/16 | 변수 | [2-1](https://youtu.be/jUf_Whd84Js), [2-1+](https://youtu.be/FucqINsag-w) | - |
+|  3  | 3/17 | 3/22 | 함수 | [2-2](https://youtu.be/rhnkRaDvKVI) | #2 |
 |  3  | 3/23 | 3/23 | 제어 구조 |  | - |
 |  4  | 3/24 | 3/29 | 제어 구조 |  | - |
 |  4  | 3/30 | 3/30 | 제어 구조 연습 |  | #3 |
