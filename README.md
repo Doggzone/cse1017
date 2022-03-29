@@ -34,10 +34,10 @@
 |  3  | 3/17 | 3/22 | 함수 | - |  [2-2](https://youtu.be/rhnkRaDvKVI) | [#2](hw2.md) |
 |  3  | 3/23 | 3/23 | 제어 구조 | [3](chapter3.pdf) | [3-0](https://youtu.be/Cd2rES5DCPQ), [3-1](https://youtu.be/7p7LDxkmme0), [3-2](https://youtu.be/hS7DEkzY_1Y)  | - |
 |  4  | 3/24 | 3/29 | 제어 구조 | - | [3-3](https://youtu.be/XTZ5UFAz_6k), [3-4](https://youtu.be/yqxfcuyxyzE)  | [#3](hw3.md) |
-|  4  | 3/30 | 3/30 | 제어 구조 연습 | 3ex | - | - |
-|  5  | 3/31 | 4/5 | 재귀와 반복 : 자연수 계산 | 4 |   | - |
-|  5  | 4/6 | 4/6 | 재귀와 반복 : 자연수 계산 | - |   | - |
-|  6  | 4/7 | 4/12 | 재귀와 반복 : 자연수 계산 연습 | 4ex |   | #4 |
+|  4  | 3/30 | 3/30 | 제어 구조 연습 | [3ex](chapter3ex.pdf) | - | - |
+|  5  | 3/31 | 4/5 | 재귀와 반복 : 자연수 계산 | [4](chapter4.pdf) | [4-0](https://youtu.be/o27l5UIiMvM), [4-1](https://youtu.be/aiHlnAA-vew), [4-2](https://youtu.be/opFurOKDs6A), [4-3](https://youtu.be/04yeowFdYFQ) | - |
+|  5  | 4/6 | 4/6 | 재귀와 반복 : 자연수 계산 | - | [4-4](https://youtu.be/eCSoHZj1LFM)  | #4 |
+|  6  | 4/7 | 4/12 | 재귀와 반복 : 자연수 계산 연습 | 4ex | - | - |
 |  6  | 4/13 | 4/13 | 재귀와 반복 : 정렬 | 5 |   | - |
 |  7  | 4/14 | 4/19 | 재귀와 반복 : 정렬 | - |   | - |
 |  7  | 4/20 | 4/20 | 재귀와 반복 : 정렬 연습 | 5ex |   | #5 |
