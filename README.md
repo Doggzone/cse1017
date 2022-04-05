@@ -36,7 +36,7 @@
 |  4  | 3/24 | 3/29 | 제어 구조 | - | [3-3](https://youtu.be/XTZ5UFAz_6k), [3-4](https://youtu.be/yqxfcuyxyzE)  | [#3](hw3.md) |
 |  4  | 3/30 | 3/30 | 제어 구조 연습 | [3ex](chapter3ex.pdf) | - | - |
 |  5  | 3/31 | 4/5 | 재귀와 반복 : 자연수 계산 | [4](chapter4.pdf) | [4-0](https://youtu.be/o27l5UIiMvM), [4-1](https://youtu.be/aiHlnAA-vew), [4-2](https://youtu.be/opFurOKDs6A), [4-3](https://youtu.be/04yeowFdYFQ) | - |
-|  5  | 4/6 | 4/6 | 재귀와 반복 : 자연수 계산 | - | [4-4](https://youtu.be/eCSoHZj1LFM)  | #4 |
+|  5  | 4/6 | 4/6 | 재귀와 반복 : 자연수 계산 | - | [4-4](https://youtu.be/eCSoHZj1LFM)  | [#4](hw4.md) |
 |  6  | 4/7 | 4/12 | 재귀와 반복 : 자연수 계산 연습 | 4ex | - | - |
 |  6  | 4/13 | 4/13 | 재귀와 반복 : 정렬 | 5 |   | - |
 |  7  | 4/14 | 4/19 | 재귀와 반복 : 정렬 | - |   | - |
