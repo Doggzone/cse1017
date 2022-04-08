@@ -38,9 +38,9 @@
 |  5  | 3/31 | 4/5 | 재귀와 반복 : 자연수 계산 | [4](chapter4.pdf) | [4-0](https://youtu.be/o27l5UIiMvM), [4-1](https://youtu.be/aiHlnAA-vew), [4-2](https://youtu.be/opFurOKDs6A), [4-3](https://youtu.be/04yeowFdYFQ) | - |
 |  5  | 4/6 | 4/6 | 재귀와 반복 : 자연수 계산 | - | [4-4](https://youtu.be/eCSoHZj1LFM)  | [#4](hw4.md) |
 |  6  | 4/7 | 4/12 | 재귀와 반복 : 자연수 계산 연습 | [4ex](chapter4ex.pdf) | - | - |
-|  6  | 4/13 | 4/13 | 재귀와 반복 : 정렬 | 5 |   | - |
-|  7  | 4/14 | 4/19 | 재귀와 반복 : 정렬 | - |   | - |
-|  7  | 4/20 | 4/20 | 재귀와 반복 : 정렬 연습 | 5ex |   | #5 |
+|  6  | 4/13 | 4/13 | 재귀와 반복 : 정렬 | [5](chapter5.pdf) | [5-0](https://youtu.be/7v5i-76wKIg), [5-1](https://youtu.be/wqUpUJFD0Wc), [5-1-1](https://youtu.be/usJIGJHkzzM), [5-2](https://youtu.be/0_1kZmZbFiI), [5-2-1](https://youtu.be/2-xXR7JqLXg), [5-2-2](https://youtu.be/oQxL66H3_G8)  | - |
+|  7  | 4/14 | 4/19 | 재귀와 반복 : 정렬 | - | [5-2-3](https://youtu.be/nOaGawvFCqo), [5-2-4](https://youtu.be/j1cl5-JD6KM)  | - |
+|  7  | 4/20 | 4/20 | 재귀와 반복 : 정렬 연습 | [5ex](chapter5ex.pdf) |   | [#5](hw5.md) |
 |  8  | 4/27 | 4/27 | 코딩시험1 | |   | - |
 |  9  | 4/28 | 5/3 | 재귀와 반복 : 검색 | 6 |   | - |
 |  9  | 5/4 | 5/4 | 재귀와 반복 : 검색 | - |   | - |
