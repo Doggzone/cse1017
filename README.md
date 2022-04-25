@@ -41,7 +41,7 @@
 |  6  | 4/13 | 4/13 | 재귀와 반복 : 정렬 | [5](chapter5.pdf) | [5-0](https://youtu.be/7v5i-76wKIg), [5-1](https://youtu.be/wqUpUJFD0Wc), [5-1-1](https://youtu.be/usJIGJHkzzM), [5-2](https://youtu.be/0_1kZmZbFiI), [5-2-1](https://youtu.be/2-xXR7JqLXg), [5-2-2](https://youtu.be/oQxL66H3_G8)  | - |
 |  7  | 4/14 | 4/19 | 재귀와 반복 : 정렬 | - | [5-2-3](https://youtu.be/nOaGawvFCqo), [5-2-4](https://youtu.be/j1cl5-JD6KM)  | - |
 |  7  | 4/20 | 4/20 | 재귀와 반복 : 정렬 연습 | [5ex](chapter5ex.pdf) |   | [#5](hw5.md) |
-|  8  | 4/27 | 4/27 | 코딩시험1 | 기출문제 [A](examA.pdf), [B](examB.pdf) |   | - |
+|  8  | 4/27 | 4/27 | 코딩시험1 | 기출문제 [A](examA.pdf), [B](examB.pdf) | 모범답안 [A](examA-sol.py), [B](examB-sol.py)  | - |
 |  9  | 4/28 | 5/3 | 재귀와 반복 : 검색 | [6](chapter6.pdf) | [6-0](https://youtu.be/8jz5LdDtg-k), [6-1](https://youtu.be/j0u3eeyJztE), [6-2](https://youtu.be/ZQVQrgGGQd0), [6-3](https://youtu.be/W1_W2cFT2Zk)  | - |
 |  9  | 5/4 | 5/4 | 재귀와 반복 : 검색 | - | [6-4](https://youtu.be/0iSxSOMLmXA), [6-5](https://youtu.be/HeEnjZCvyTQ)  | - |
 |  10  | 5/5(보강필요) | 5/10 | 재귀와 반복 : 검색 연습 | 6ex |   | #6 |
