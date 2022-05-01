@@ -9,8 +9,7 @@
 
 ### 교재
 - 도경구, 프로그래밍의 정석 : 파이썬, 생능출판사, 2020.
-  - [강의 영상](https://youtube.com/playlist?list=PL0UNsS2daHTyoDTctKpITfbW1UtR5ig6L)
-  - [보조 자료 및 정오표](https://drive.google.com/drive/folders/1RMa0oL91nP98BOVWfx0tYWFbhhU5VjKy?usp=sharing)
+  - [강의 동영상, 학습 자료, 정오표](https://doggzone.github.io/pppython/)
   - 구입 : 교내 서점, [교보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630)
 
 ### 프로그래밍언어
