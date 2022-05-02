@@ -43,7 +43,7 @@
 |  8  | 4/27 | 4/27 | 코딩시험1 : [문제](exam1.pdf), [답안](exam1sol.pdf) | 기출문제 [A](examA.pdf), [B](examB.pdf) | 모범답안 [A](examA-sol.py), [B](examB-sol.py)  | - |
 |  9  | 4/28 | 5/3 | 재귀와 반복 : 검색 | [6](chapter6.pdf) | [6-0](https://youtu.be/8jz5LdDtg-k), [6-1](https://youtu.be/j0u3eeyJztE), [6-2](https://youtu.be/ZQVQrgGGQd0), [6-3](https://youtu.be/W1_W2cFT2Zk)  | - |
 |  9  | 5/4 | 5/4 | 재귀와 반복 : 검색 | - | [6-4](https://youtu.be/0iSxSOMLmXA), [6-5](https://youtu.be/HeEnjZCvyTQ)  | - |
-|  10  | 5/5(보강필요) | 5/10 | 재귀와 반복 : 검색 연습 | 6ex |   | #6 |
+|  10  | 5/5(보강필요) | 5/10 | 재귀와 반복 : 검색 연습 | 6ex |   | [#6](hw6.md) |
 |  10 | 5/11 | 5/11 | 표채워풀기 | 7 |   | - |
 |  11 | 5/12 | 5/17 | 표채워풀기 | - |   | - |
 |  11 | 5/18 | 5/18 | 표채워풀기 연습 | 7ex |   | #7 |
