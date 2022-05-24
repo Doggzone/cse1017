@@ -46,8 +46,8 @@
 |  10 | 5/12 | 5/11 | 표채워풀기 | [7](chapter7.pdf) | [7-0](https://youtu.be/mCdu2Nhb0a4), [7-1](https://youtu.be/ahVxUubo8Yo), [7-2](https://youtu.be/9twgMzouYDg)  | - |
 |  11 | 5/18 | 5/17 | 표채워풀기 | - | [7-3](https://youtu.be/hH2M-dYWuBQ), [7-4](https://youtu.be/ib8hOsNUiX0)  | - |
 |  11 | 5/19 | 5/18 | 표채워풀기 연습 | [7ex](chapter7ex.pdf) |   | [#7](hw7.md) |
-|  12 | 5/25 | 5/24 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | 8 |   | - |
-|  12 | 5/26 | 5/25 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | - |   | #8 |
+|  12 | 5/25 | 5/24 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | [8](chapter8.pdf) | [8-1](https://youtu.be/l1IWZGxmTlo), [8-1-1](https://youtu.be/HZ3v322EDTA), [8-1-2](https://youtu.be/_qDzdJjXkwg), [8-1-3](https://youtu.be/0iG0AK4HgJY), [8-1-4](https://youtu.be/aUIEBX5RyIA), [8-1-5](https://youtu.be/onEazVf_NyI)  | - |
+|  12 | 5/26 | 5/25 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | - | [8-0](https://youtu.be/dJ2VdWTexE4), [8-2](https://youtu.be/FayOgPCRY2I)  | #8 |
 |  13 | 5/31 | 선거일 보강 | 프로젝트 기반 학습 II - 카드게임 블랙잭 | 9 |   | - |
 |  13 | 6/2 | 선거일 보강 | 프로젝트 기반 학습 II - 카드게임 블랙잭 | - |   | #9 |
 |  14 | 6/8| 6/7 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | - |   | - |
