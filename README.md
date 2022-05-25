@@ -49,10 +49,10 @@
 |  12 | 5/25 | 5/24 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | [8](chapter8.pdf) | [8-1](https://youtu.be/l1IWZGxmTlo), [8-1-1](https://youtu.be/HZ3v322EDTA), [8-1-2](https://youtu.be/_qDzdJjXkwg), [8-1-3](https://youtu.be/0iG0AK4HgJY), [8-1-4](https://youtu.be/aUIEBX5RyIA), [8-1-5](https://youtu.be/onEazVf_NyI)  | - |
 |  12 | 5/26 | 5/25 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | - | [8-0](https://youtu.be/dJ2VdWTexE4), [8-2](https://youtu.be/FayOgPCRY2I)  | #8: 9x9 또는 6x6 스도쿠 |
 |  13 | 6/2 | 5/31 | 프로젝트 기반 학습 II - 카드게임 블랙잭 | 9 | [9-0](https://youtu.be/yH9zJS3O4Y8), [9-1](https://youtu.be/usO_Q8uJH6g), [9-2-1](https://youtu.be/5WFHze1jy7c), [9-2-2](https://youtu.be/sh8corztsq8), [9-2-3](https://youtu.be/JnwX2HifFZ8)  | - |
-|  13 | 6/4 (온라인,9am) | 6/4 보강(온라인11am) | 프로젝트 기반 학습 II - 카드게임 블랙잭 | - | [9-3](https://youtu.be/30-V_z6br4M)  | #9: 블랙잭 |
+|  13 | 6/4 (온라인,9am) | 6/4 (온라인,11am) | 프로젝트 기반 학습 II - 카드게임 블랙잭 | - | [9-3](https://youtu.be/30-V_z6br4M)  | #9: 블랙잭 |
 |  14 | 6/8| 6/7 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | -  | [9-4](https://youtu.be/oSmMLwtsl8s), [9-5](https://youtu.be/CCPbXU9zljk)  | - |
-|  14 | 6/8(보강,1:20pm)| 6/8 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | - | [9-5-1](https://youtu.be/jvyTL0zbFSU), [9-5-2](https://youtu.be/JCRweTrKql0), [9-5-3](https://youtu.be/EoFDwgJB4hM)  | #10: 블랙잭(확장) |
-|  15 | 6/9 | 6/14 | 예외 처리 | 10 | [10](https://youtu.be/fTZVTya9rj4), [10-1](https://youtu.be/UWeN7OWiWbQ), [10-2](https://youtu.be/USvGxY_yh2U), [10-3](https://youtu.be/LqbHKkyJh_Q), [10-4](https://youtu.be/LETXjLudpIQ)  | - |
+|  14 | 6/9| 6/8 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | - | [9-5-1](https://youtu.be/jvyTL0zbFSU), [9-5-2](https://youtu.be/JCRweTrKql0), [9-5-3](https://youtu.be/EoFDwgJB4hM)  | #10: 블랙잭(확장) |
+|  15 | 6/11(온라인,10am) | 6/14 | 예외 처리 | 10 | [10](https://youtu.be/fTZVTya9rj4), [10-1](https://youtu.be/UWeN7OWiWbQ), [10-2](https://youtu.be/USvGxY_yh2U), [10-3](https://youtu.be/LqbHKkyJh_Q), [10-4](https://youtu.be/LETXjLudpIQ)  | - |
 |  16 | 6/15 | 6/15 | 코딩시험2 |  |   | - |
 
 ### 평가
