@@ -45,7 +45,7 @@
 |  10  | 5/11 | 5/10 | 재귀와 반복 : 검색 연습 | [6ex](chapter6ex.pdf) |   | [#6](hw6.md) |
 |  10 | 5/12 | 5/11 | 표채워풀기 | [7](chapter7.pdf) | [7-0](https://youtu.be/mCdu2Nhb0a4), [7-1](https://youtu.be/ahVxUubo8Yo), [7-2](https://youtu.be/9twgMzouYDg)  | - |
 |  11 | 5/18 | 5/17 | 표채워풀기 | - | [7-3](https://youtu.be/hH2M-dYWuBQ), [7-4](https://youtu.be/ib8hOsNUiX0)  | - |
-|  11 | 5/19 | 5/18 | 표채워풀기 연습 | [7ex](chapter7ex.pdf) |   | [#7](hw7.md) |
+|  11 | 5/19 | 5/18 | 표채워풀기 연습 | [7ex](chapter7ex.pdf) |   | [#7](hw7.md), [해답1](anagram.py), [해답2](anagram2.py)|
 |  12 | 5/25 | 5/24 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | [8](chapter8.pdf) | [8-1](https://youtu.be/l1IWZGxmTlo), [8-1-1](https://youtu.be/HZ3v322EDTA), [8-1-2](https://youtu.be/_qDzdJjXkwg), [8-1-3](https://youtu.be/0iG0AK4HgJY), [8-1-4](https://youtu.be/aUIEBX5RyIA), [8-1-5](https://youtu.be/onEazVf_NyI)  | - |
 |  12 | 5/26 | 5/25 | 프로젝트 기반 학습 I - 퍼즐게임 스도쿠 | - | [8-0](https://youtu.be/dJ2VdWTexE4), [8-2](https://youtu.be/FayOgPCRY2I)  | #8: 9x9 또는 6x6 스도쿠 (마감:6/4) |
 |  13 | 6/2 | 5/31 | 프로젝트 기반 학습 II - 카드게임 블랙잭 | [9](chapter9.pdf) | [9-0](https://youtu.be/yH9zJS3O4Y8), [9-1](https://youtu.be/usO_Q8uJH6g), [9-2-1](https://youtu.be/5WFHze1jy7c), [9-2-2](https://youtu.be/sh8corztsq8), [9-2-3](https://youtu.be/JnwX2HifFZ8)  | - |
