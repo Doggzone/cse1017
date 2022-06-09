@@ -39,7 +39,7 @@
 |  6  | 4/13 | 4/13 | 재귀와 반복 : 정렬 | [5](chapter5.pdf) | [5-0](https://youtu.be/7v5i-76wKIg), [5-1](https://youtu.be/wqUpUJFD0Wc), [5-1-1](https://youtu.be/usJIGJHkzzM), [5-2](https://youtu.be/0_1kZmZbFiI), [5-2-1](https://youtu.be/2-xXR7JqLXg), [5-2-2](https://youtu.be/oQxL66H3_G8)  | - |
 |  7  | 4/14 | 4/19 | 재귀와 반복 : 정렬 | - | [5-2-3](https://youtu.be/nOaGawvFCqo), [5-2-4](https://youtu.be/j1cl5-JD6KM)  | - |
 |  7  | 4/20 | 4/20 | 재귀와 반복 : 정렬 연습 | [5ex](chapter5ex.pdf) |   | [#5](hw5.md) |
-|  8  | 4/27 | 4/27 | 코딩시험1 : [문제](exam1.pdf), [답안](exam1sol.pdf) | 기출문제 [A](examA.pdf), [B](examB.pdf) | 모범답안 [A](examA-sol.py), [B](examB-sol.py)  | - |
+|  8  | 4/27 | 4/27 | 코딩시험1 : [문제](exam1.pdf), [답안](exam1sol.pdf) | 기출문제 [A](exammid2021/examA.pdf), [B](exammid2021/examB.pdf) | 모범답안 [A](exammid2021/examA-sol.py), [B](exammid2021/examB-sol.py)  | - |
 |  9  | 4/28 | 5/3 | 재귀와 반복 : 검색 | [6](chapter6.pdf) | [6-0](https://youtu.be/8jz5LdDtg-k), [6-1](https://youtu.be/j0u3eeyJztE), [6-2](https://youtu.be/ZQVQrgGGQd0), [6-3](https://youtu.be/W1_W2cFT2Zk)  | - |
 |  9  | 5/4 | 5/4 | 재귀와 반복 : 검색 | - | [6-4](https://youtu.be/0iSxSOMLmXA), [6-5](https://youtu.be/HeEnjZCvyTQ)  | - |
 |  10  | 5/11 | 5/10 | 재귀와 반복 : 검색 연습 | [6ex](chapter6ex.pdf) |   | [#6](hw6.md) |
@@ -53,7 +53,7 @@
 |  14 | 6/8| 6/7 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | -  | [9-4](https://youtu.be/oSmMLwtsl8s), [9-5](https://youtu.be/CCPbXU9zljk)  | - |
 |  14 | 6/9| 6/8 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | - | [9-5-1](https://youtu.be/jvyTL0zbFSU), [9-5-2](https://youtu.be/JCRweTrKql0), [9-5-3](https://youtu.be/EoFDwgJB4hM)  | #10: 블랙잭(확장) (마감:6/14) |
 |  15 | 6/11(온라인,10am) | 6/14 | 예외 처리 | [10](chapter10.pdf) | [10](https://youtu.be/fTZVTya9rj4), [10-1](https://youtu.be/UWeN7OWiWbQ), [10-2](https://youtu.be/USvGxY_yh2U), [10-3](https://youtu.be/LqbHKkyJh_Q), [10-4](https://youtu.be/LETXjLudpIQ)  | - |
-|  16 | 6/15 | 6/15 | 코딩시험2 | 기출문제 [A](finalexamA.pdf), [B](finalexamB.pdf), [poem.txt](poem.txt) |  |   | - |
+|  16 | 6/15 | 6/15 | 코딩시험2 | 기출문제 [A](examfinal2021/finalexamA.pdf), [B](examfinal2021/finalexamB.pdf), [poem.txt](examfinal2021/poem.txt) | 모범답안 [A](examfinal2021/examA-sol.py), [B](examfinal2021/examB-sol.py) |   | - |
 
 ### 평가
 
