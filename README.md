@@ -53,7 +53,7 @@
 |  14 | 6/8| 6/7 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | -  | [9-4](https://youtu.be/oSmMLwtsl8s), [9-5](https://youtu.be/CCPbXU9zljk)  | - |
 |  14 | 6/9| 6/8 | 프로젝트 기반 학습 II - 카드게임 블랙잭 (확장) | - | [9-5-1](https://youtu.be/jvyTL0zbFSU), [9-5-2](https://youtu.be/JCRweTrKql0), [9-5-3](https://youtu.be/EoFDwgJB4hM)  | #10: 블랙잭(확장) (마감:6/14) |
 |  15 | 6/11(온라인,10am) | 6/14 | 예외 처리 | [10](chapter10.pdf) | [10](https://youtu.be/fTZVTya9rj4), [10-1](https://youtu.be/UWeN7OWiWbQ), [10-2](https://youtu.be/USvGxY_yh2U), [10-3](https://youtu.be/LqbHKkyJh_Q), [10-4](https://youtu.be/LETXjLudpIQ)  | - |
-|  16 | 6/15 | 6/15 | 코딩시험2 | 기출문제 [A](examfinal2021/finalexamA.pdf), [B](examfinal2021/finalexamB.pdf), [poem.txt](examfinal2021/poem.txt) | 모범답안 [A](examfinal2021/examA-sol.py), [B](examfinal2021/examB-sol.py) |   | - |
+|  16 | 6/15 | 6/15 | 코딩시험2 : [문제](exam2.pdf), [답안](exam2sol.py)| 기출문제 [A](examfinal2021/finalexamA.pdf), [B](examfinal2021/finalexamB.pdf), [poem.txt](examfinal2021/poem.txt) | 모범답안 [A](examfinal2021/examA-sol.py), [B](examfinal2021/examB-sol.py) |   | - |
 
 ### 평가
 
